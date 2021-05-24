@@ -58,7 +58,15 @@ body {
     font-size: 15px;
 }
 
-.number,
+.number {
+    background-color: #1d1313;
+    color: white;
+}
+
+.top {
+    background-color: rgb(231, 231, 95);
+}
+
 .empty {
     background-color: #eaedef;
 }
