@@ -6,8 +6,8 @@ This is a sample Calculator App made with Html, CSS and Javascript.
 
 - Addition +
 - Multiplication x
-- Division 
-- Modulus
-- delete
-- Clear
-- Equality.
+- Division /
+- Modulus %
+- delete Del
+- Clear Clr
+- Equality =
